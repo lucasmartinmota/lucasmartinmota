@@ -1,16 +1,18 @@
-### Hi there 👋
+## Sobre mim:
 
-<!--
-**lucasmartinmota/lucasmartinmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, tudo bem? Me chamo Lucas Martin! 👋
+Aqui tem algumas informações sobre mim:
 
-Here are some ideas to get you started:
+- 💻 Atualmente estou me aperfeiçoando em algumas linguagens e frameworks, estas são:
+    -  Dart em Flutter(Mobile)
+    -  TypeScript(NodeJS)
+    -  Angular
+- 👥 Faço parte de um grupo de Devs chamado LudaDev, onde realizamos alguns projetos.
+- 🤔 Como todo mundo, estou sempre buscando aprender mais.
+- 📫 Como me contactar?
+    - Email: lucas127mm@gmail.com
+    - Instagram: https://www.instagram.com/lmartin_m/
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
