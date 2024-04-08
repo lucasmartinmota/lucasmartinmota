@@ -11,7 +11,7 @@ Aqui tem algumas informações sobre mim:
 - 🤔 Como todo mundo, estou sempre buscando aprender mais.
 - 📫 Como me contactar?
     - Email: lucas127mm@gmail.com
-    - Instagram: https://www.linkedin.com/in/lucas-martin-mota/
+    - Linkedin: https://www.linkedin.com/in/lucas-martin-mota/
  
 
 
